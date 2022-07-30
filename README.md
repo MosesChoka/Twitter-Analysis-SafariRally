@@ -1,5 +1,5 @@
 # Twitter-Analysis-SafariRally
-<p> This project aims at finding insight on the Safari Rally event from tweets. In order to generate some insights, I scraped some data from Twitter and used them for analysis. Python has libraries that enable us to scrape data from twitter.
+<p> The goal of this project is to glean information about the Safari Rally from tweets. I scraped some data from Twitter and used it for analysis to generate some insights. Python libraries allow us to scrape data from Twitter.
 </p>
 <p> The libraries used included </p>
 <ul>
@@ -7,17 +7,15 @@
 <li>pandas # For basic data manipulation and recording the data as a csv file
 </ul>
 <p>Problem Statement </p>
-<p> This section highlights the research questions we want to adress or the insights we would like to obtain. Some of the research questions adressed in this analysis include:</p>
+<p> This section focuses on the research questions we want to answer or the insights we want to gain. This analysis addresses the following research questions:</p>
 <ul>
-<li> Which tweeter users tweeted the most tweets regarding Safari Rally?
-<li> On which particular days did user tweet more often?
-<li> On which date was there a high number of tweets about Safari Rally?
-<li> From which countries were the Safari rally tweets coming from?
-<li> Which users' tweet had the most retweets?
+<li>Which Twitter users sent the most tweets about the Safari Rally?
+<li> On which days did the user tweet the most?
+<li> When did the most tweets about the Safari Rally appear?
+<li> What countries were the tweets about the Safari rally coming from?
+<li> What user's tweet received the most retweets?
 </ul>
-<p> In order to find insights from the tweets, we can do some exploration using visualizations. Using interactive dashboards can help us futher finetune our data to our liking 
-so we could generate a lot other insights. In the dashboard I created, you could use day of the week to find other insights on the data.</p>
-<p> For instance you would like to know which user tweeted the most tweet on Wednesday, the dashboard will filter out the users in order of who made many tweets on Wednesday
-, in addition this filter affects other plots to show the variations on Wednesday only. </p>
+<p> We can use visualizations to do some exploration to find insights from the tweets. Using interactive dashboards can help us fine-tune our data to our liking, allowing us to generate a plethora of new insights. You could use the day of the week in the dashboard I created to find additional data insights.</p>
+<p> For example, if you want to know which user tweeted the most on Wednesday, the dashboard will sort the users by who tweeted the most on Wednesday, and this filter will affect other plots to only show the variations on Wednesday.</p>
 <p> Here's the dashboard </p>
 <img src = "C:/Users/admin/Pictures/Screenshots.dashboard.png" alt = "tableau-dashboard">
