@@ -18,5 +18,5 @@
 <p> We can use visualizations to do some exploration to find insights from the tweets. Using interactive dashboards can help us fine-tune our data to our liking, allowing us to generate a plethora of new insights. You could use the day of the week in the dashboard I created to find additional data insights.</p>
 <p> For example, if you want to know which user tweeted the most on Wednesday, the dashboard will sort the users by who tweeted the most on Wednesday, and this filter will affect other plots to only show the variations on Wednesday.</p>
 <p> Here's the dashboard </p>
-<img src = "https://github.com/MosesChoka/Twitter-Analysis-SafariRally/safari-img1" alt = "Not filtered">
+<img src = "https://github.com/MosesChoka/Twitter-Analysis-SafariRally/safari-img1" alt = "Not filtered" width:60px; height:60px>
 <img src = "https://github.com/MosesChoka/Twitter-Analysis-SafariRally/safari-img2" alt = "Filtered">
