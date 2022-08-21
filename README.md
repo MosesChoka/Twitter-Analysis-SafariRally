@@ -1,5 +1,5 @@
 # Twitter-Analysis-SafariRally
-<p> The goal of this project is to glean information about the Safari Rally from tweets. I scraped some data from Twitter and used it for analysis to generate some insights. Python libraries allow us to scrape data from Twitter.
+<p> The goal of this project is to get information about the Safari Rally from tweets. I scraped some data from Twitter and used it for analysis to generate some insights. Python libraries allow us to scrape data from Twitter.
 </p>
 <p> The libraries used included </p>
 <ul>
